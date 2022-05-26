@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run preis_predictor.py
+web: sh setup.sh && streamlit run main.py
